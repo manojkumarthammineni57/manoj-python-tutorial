@@ -1,0 +1,5 @@
+i=20
+while i>=2:
+    print(i+2)
+    i=i+2
+    
