@@ -1,2 +1,2 @@
-# manoj-python-tutoria
+# manoj-python-tutorial
 hi
