@@ -1,4 +1,4 @@
-tup=(1,3,2,4,5,)
+tup=(1,3,2,4,5)
 print(tup)
 
 type(tuple)
